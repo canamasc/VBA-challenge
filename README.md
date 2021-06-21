@@ -19,7 +19,9 @@ Main differences seen in the multi_year VBA file:
   - Stock with greatest % decrease
   - Stock with greatest total volume
   
- - In general:
+ 
+ 
+ PSEUDOCODE:
  First block of code sets up headers.
  Fill in ticker column using column A, then remove duplicates.
  Find out how many rows are in this new column, name this value cell2.
